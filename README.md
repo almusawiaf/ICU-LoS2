@@ -20,9 +20,9 @@ This directory contains all scripts and SLURM job files necessary for the extrac
 
 **Subcomponents:**
 
-- `1.1 Extracting Structured Features`: Scripts to extract, normalize, and encode features such as diagnoses, procedures, medications, lab values, and demographic data.
+- `1.1 Extracting Structured Features, (ZSF)`: Scripts to extract, normalize, and encode the structured features. Structured features—such as diagnoses, procedures, medications, labs, microbiology, vitals, and demographics—were extracted and preprocessed individually. Feature selection (e.g., ANOVA F-test) was applied per modality, and selected features were concatenated into a unified representation. Continuous features were z-score normalized. The final composite vector, referred to as ZSF, captures clinically relevant structured signals for downstream modeling.
   
-- `1.2 Extracting Unstructured Features`: 
+- `1.2 Extracting Unstructured Features, (E)`: 
   - Preprocessing of clinical notes from the MIMIC-III NOTEEVENTS table.
   - Symptom extraction using MeSH ontology.
   
