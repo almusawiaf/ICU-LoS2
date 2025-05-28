@@ -37,7 +37,6 @@ This directory contains all scripts and SLURM job files necessary for the extrac
   - Generation of text embeddings using:
     - `Bio_ClinicalBERT`
     - `ClinicalBERT`
-    - `SciBERT`
     - Other biomedical transformer-based models.
 
 - `1.4 Unified Feature Representation`:
@@ -73,8 +72,7 @@ Each training mode supports classical models (e.g., ANN, XGBoost) and graph-base
 
 ## Citation
 
-If you use this repository in your work, please cite the related paper (citation to be added upon publication).
-
+To be shared soon.
 ---
 
 ## Contact
