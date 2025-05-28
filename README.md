@@ -78,7 +78,7 @@ Each training mode supports classical models (e.g., ANN, XGBoost) and graph-base
 
 ## Dataset 
 
-- We analyzed and incorporate the ML models using MIMIC-III dataset. It can be found at [https://physionet.org/content/mimiciii/1.4/].
+- We analyzed and incorporated the ML models using MIMIC-III dataset. It can be found at [https://physionet.org/content/mimiciii/1.4/].
 
 ---
 
