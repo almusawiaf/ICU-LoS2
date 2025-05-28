@@ -72,7 +72,8 @@ Each training mode supports classical models (e.g., ANN, XGBoost) and graph-base
 
 ## Citation
 
-To be shared soon.
+- To be shared.
+
 ---
 
 ## Contact
