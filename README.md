@@ -1,4 +1,4 @@
-# ICU Length of Stay Prediction from Structured and Unstructured EHR Data
+# Improving Hospital Length of Stay Prediction through Heterogeneous Data Integration from MIMIC-III Records
 
 ## Introduction
 
